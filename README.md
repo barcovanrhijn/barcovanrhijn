@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Laravel projects
-- 🌱 I’m currently learning how IOT
-- 👯 I’m looking to collaborate on JS, Python and PHP projects
-- 📫 How to reach me: barcovanrhijn@gmail.com also [check out my blog](https://barcovanrhijn.github.io)
+- 🔭 I’m currently working on JS & Python projects
+- 🌱 I’m currently toying with IOT
+- 👯 I’m looking to collaborate on Golang & Laravel projects
+- 📫 How to reach me: barcovanrhijn@gmail.com
 - ⚡ Fun fact: I started coding in Basic when I was 7.
